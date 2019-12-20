@@ -1,8 +1,4 @@
 # 360 car security
-#problem- difficulty in parking, traffic etc. 
-# In this project in a car display is eslablish and in it movement is showen.
-# when any object come near the car then it shows red color in display either blue color.
-# no requirment of sidemirror
-# we use ultrasonic senser , arduino in hardware
-# python for display and combined the code 
-# for sense the distance code is written in arduinoIDE
+# In this project a virtual display made by python and it shows the distance of object from car.In this we cover all four side of car to measure distance and car driver can hold a safe position in traffic. 
+# hardware - ultrasonic senser, Arduino
+# python , arduionIDE
